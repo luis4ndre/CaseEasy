@@ -1,0 +1,22 @@
+{
+    "fundo": [{
+            "capitalInvestido": 1000,
+            "ValorAtual": 1159,
+            "dataResgate": "2022-10-01T00:00:00",
+            "dataCompra": "2017-10-01T00:00:00",
+            "iof": 0,
+            "nome": "ALASKA",
+            "totalTaxas": 53.49,
+            "quantity": 1
+        }, {
+            "capitalInvestido": 10000.0,
+            "ValorAtual": 12300.52,
+            "dataResgate": "2022-11-15T00:00:00",
+            "dataCompra": "2019-11-15T00:00:00",
+            "iof": 0,
+            "nome": "REAL",
+            "totalTaxas": 134.49,
+            "quantity": 1
+        }
+    ]
+}

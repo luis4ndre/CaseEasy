@@ -1,0 +1,34 @@
+{
+    "lcis": [{
+            "capitalInvestido": 2000.0,
+            "capitalAtual": 2097.85,
+            "quantidade": 2.0,
+            "vencimento": "2021-08-14T00:00:00",
+            "iof": 0.0,
+            "outrasTaxas": 0.0,
+            "taxas": 0.0,
+            "indice": "97% do CDI",
+            "tipo": "LCI",
+            "nome": "BANCO MAXIMA",
+            "guarantidoFGC": true,
+            "dataOperacao": "2021-05-14T00:00:00",
+            "precoUnitario": 1048.927450,
+            "primario": false
+        }, {
+            "capitalInvestido": 5000.0,
+            "capitalAtual": 5509.76,
+            "quantidade": 1.0,
+            "vencimento": "2021-03-09T00:00:00",
+            "iof": 0.0,
+            "outrasTaxas": 0.0,
+            "taxas": 0.0,
+            "indice": "97% do CDI",
+            "tipo": "LCI",
+            "nome": "BANCO BARI",
+            "guarantidoFGC": true,
+            "dataOperacao": "2019-03-14T00:00:00",
+            "precoUnitario": 2754.88,
+            "primario": false
+        }
+    ]
+}

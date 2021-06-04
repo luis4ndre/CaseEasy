@@ -1,0 +1,22 @@
+{
+    "tds": [{
+            "valorInvestido": 799.4720,
+            "valorTotal": 829.68,
+            "vencimento": "2035-03-01T00:00:00",
+            "dataDeCompra": "2019-03-01T00:00:00",
+            "iof": 0,
+            "indice": "SELIC",
+            "tipo": "TD",
+            "nome": "Tesouro Selic 2025"
+        }, {
+            "valorInvestido": 467.1470,
+            "valorTotal": 502.787,
+            "vencimento": "2030-02-01T00:00:00",
+            "dataDeCompra": "2010-02-10T00:00:00",
+            "iof": 0,
+            "indice": "IPCA",
+            "tipo": "TD",
+            "nome": "Tesouro IPCA 2035"
+        }
+    ]
+}
